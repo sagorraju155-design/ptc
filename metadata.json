@@ -1,0 +1,6 @@
+{
+  "name": "Prime BD - Bangladeshi Online Earning & Task Platform",
+  "description": "Prime BD web platform with daily task rewards, VIP server packages, bKash/Nagad wallet deposit and withdrawal, team referral commission, and bilingual Bangla/English interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
